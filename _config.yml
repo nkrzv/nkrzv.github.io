@@ -1,2 +1,3 @@
 name: Nikolai Razouvaev, Uncaged
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
