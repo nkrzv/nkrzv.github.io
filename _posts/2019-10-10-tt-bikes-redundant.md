@@ -5,7 +5,7 @@ categories: [Cycling]
 youtubeId1: pmfsrpu-4do
 youtubeId2: dO2GO5x6xPU
 youtubeId3: sRSFUnclJGQ
-youtubeId4: YkavqwWZRg0?t=1080
+youtubeId4: YkavqwWZRg0
 date: 2019-10-10
 ---
 ## The Rise of the Machines
