@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jessy and Frank James"
+categories: [blog]
 date: 2019-10-09
 ---
 
