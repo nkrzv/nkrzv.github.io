@@ -11,9 +11,9 @@ They do this in the movies. An advertising executive with a bullet hole in his h
 
 Bullshit.
 
-You picture yourself falling face down. You smell your own brain splattered on the grass, head cracked by a handgun shot that hadn’t been fired yet, gut muscles squeezing the stomach and pushing the steak and the baked potatoes you ate for dinner, the brandy and the champagne you drank up the food pipe.
+You picture yourself falling face down. You smell your own brain splattered on the grass, head cracked by a handgun shot that hadn’t been fired yet, gut muscles squeezing the stomach and pushing the steak and the baked potatoes you ate for dinner, the brandy and the champagne you drank back up the food pipe.
 
-Vomit, you want to vomit all of it. You wait for the gun to go off and pray time would freeze and never tick to the next moment.
+You want to vomit all of it. Wait for the gun to go off and pray time would freeze and never tick to the next moment.
 
 Freeze.
 
