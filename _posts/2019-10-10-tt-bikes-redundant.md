@@ -5,8 +5,6 @@ categories: [Cycling]
 youtubeId: pmfsrpu-4do
 date: 2019-10-10
 ---
-# A Case Against TT Bikes
-
 ## The Rise of the Machines
 
 Nineteen-eighty Moscow Olympic Games left a footprint in my memory. This is when aero helmets and skinsuits hit cycling scene’s prime time.  
@@ -95,7 +93,7 @@ Do you think he’d have gone down on a road bike? Do you think he’s that clum
 
 Or look at Alejandro Valverde. Wet road, yes but this is an old pro. Wet or dry, he knows what to do yet it looks like he doesn’t control his bike at all.
 
-{% include youtubePlayer.html id=page.pmfsrpu-4do %}
+{% include youtubePlayer.html id=pmfsrpu-4do %}
 
 [https://youtu.be/pmfsrpu-4do]
 
