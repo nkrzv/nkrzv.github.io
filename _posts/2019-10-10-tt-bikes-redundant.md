@@ -106,7 +106,7 @@ This is a former UCI world mountain bike champion and these guys have superb bik
 
 {% include youtubePlayer.html id=page.youtubeId3 %}
 
-And this is the star of the show, the Montpillier TTT stage in 2009 Tour de France. A bit of a circus.
+And this is the star of the show, the Montpillier TTT stage in 2009 Tour de France. A bit of a circus (fast forward to about 18:05).
 
 {% include youtubePlayer.html id=page.youtubeId4 %}
 
