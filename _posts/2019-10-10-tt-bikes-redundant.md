@@ -2,6 +2,7 @@
 layout: post
 title: "A Case Against TT Road Bikes"
 categories: [Cycling]
+youtubeId: pmfsrpu-4do
 date: 2019-10-10
 ---
 # A Case Against TT Bikes
@@ -93,6 +94,8 @@ A gust of wind and the dream of winning a fifth Tour de France is just that, a d
 Do you think he’d have gone down on a road bike? Do you think he’s that clumsy on the bike? The guy who rode away from the peloton on the descend to Bagnères-de-Luchon in 2016 Tour de France is clumsy? 
 
 Or look at Alejandro Valverde. Wet road, yes but this is an old pro. Wet or dry, he knows what to do yet it looks like he doesn’t control his bike at all.
+
+{% include youtubePlayer.html id=page.pmfsrpu-4do %}
 
 [https://youtu.be/pmfsrpu-4do]
 
