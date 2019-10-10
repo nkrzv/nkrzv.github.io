@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Jessy and Frank James"
+date: 2019-10-09
+---
+
+Strangely, and yet a not uncommon circumstance, Jesse and Frank James were the sons of a respectable Kentucky minister of the Baptist persuasion. Rev. Robt. James, "in the good old times," as he was wont to call the early days of his ministry, was a great camp-meeting exhorter, and many of the rock-ribbed hills of middle Kentucky have been musical with the echoes of his strong voice. Like many other pastoral exhorters and close communionists, the Rev. James was illiterate so far as "book learning" was concerned, but his sincerity was rarely debated. It has been asserted that he passed an academic course at Georgetown College, but the records of that institution show the name of no such person. Zerelda Cole, (the mother of the noted outlaws,) was married to the Rev. Robert James in Scott county, Kentucky, the same county in which Georgetown College is located; this fact, added to the desire to heroize, to the largest possible extent, the paternity of the James boys, is doubtless the reason for ascribing to the father "a finished education and unusual ability."
+
+[Pg 8]
+
+"Like father, like son," is a very ancient oriental adage; but it does not apply to Jesse and Frank James, though it is true that their dispositions are due to maternal inheritance. In fact, the wife's strength of will and uncompanionable traits of character resulted in a final separation a few years after their removal to Clay county, Missouri, in 1843. The Rev. James, in 1849, joined in the pilgrimage to California, from whence he never returned; and, in 1857, Mrs. James took another husband, in the person of Dr. Reuben Samuels. It is quite unimportant to follow the domestic career of Mrs. James, now Mrs. Samuels, and what has been related is merely for the purpose of defining the inherited bent and inclination of the parents of the great outlaws.
+
+Jesse James was born in Clay county, Missouri, in 1845, while Frank's nativity is Scott county, Kentucky, where he was born in 1841. At an extremely early age they displayed traits of character which have ever since distinguished them. Their hatreds were always bitter and their cruelty remorseless.
+
+They manifested especial delight in punishing dumb animals, which is evidenced by their cutting off the tails and ears of dogs and cats, burying small animals alive, and diversions of every kind which would inflict the most grievous pains. Among other boys they were domineering and cruel, and would rarely participate in innocent[Pg 9] amusements. They were never subjected to parental restraint and their youth was passed in the most perfect indulgence. At the age of ten and fourteen years, respectively, the boys were provided with fire-arms, in the use of which they readily became proficient, and were no less expert in throwing a bowie-knife which they could send quivering into a two-inch sapling, at the space of fifteen feet, almost without fail
