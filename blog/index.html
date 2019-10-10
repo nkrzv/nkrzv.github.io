@@ -10,7 +10,7 @@ title: "Blog Posts"
 	  {% endfor %}
 	</ul>-->	
 <div>
-	<p>Categories:</p>
+	<p>Categories:
     {% assign categories = site.categories | sort %}
     {% for category in categories %}
         <span class="site-tag">
@@ -18,6 +18,7 @@ title: "Blog Posts"
                     {{ category[0] | replace:'-', ' ' }} ({{ category | last | size }})
             </a>
         </span>
+    </p>
     {% endfor %}
 </div>
 <div id="index">
