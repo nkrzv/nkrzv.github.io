@@ -71,3 +71,7 @@ ul.posts li {
 #blurb {
     text-align: center;
 }
+#tagline {
+  font-size: 0.8em;
+  color: #333;
+}
