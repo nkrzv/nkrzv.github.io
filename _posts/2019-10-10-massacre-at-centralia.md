@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Direful Massacre at Centralia"
-categories: [blog]
+categories: [Blog]
 date: 2019-10-10
 ---
 
