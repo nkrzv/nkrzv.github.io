@@ -32,10 +32,19 @@ a {
 a:hover {
     text-decoration: underline;
 }
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 300;
+}
 h1 {
-    font-size: 1.6em;    
+    font-size: 2em;    
     text-align: center;
     color: #333;
+}
+h2 {
+  font-size: 1.6em;  
+}
+h3 {
+  font-size: 1.2em;
 }
 p {
     font-size: 1.2em;
