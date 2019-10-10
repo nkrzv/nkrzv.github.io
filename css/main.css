@@ -20,7 +20,6 @@ nav ul, footer ul {
     list-style: none;
     font-weight: 300;
     text-align: center;
-    color: #999;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -32,6 +31,9 @@ a {
 }
 a:hover {
     text-decoration: underline;
+}
+nav a {
+  color: #064F86;
 }
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
