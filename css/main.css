@@ -54,7 +54,8 @@ p {
     line-height: 1.3em;
     color: #666;
 }
-hr {  
+hr {
+  border-top: 0;
   border-bottom: 1px dashed #666;
   text-align: center;
   width: 50%;
