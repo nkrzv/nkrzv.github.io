@@ -2,7 +2,7 @@
 layout: post
 title: "A Case Against TT Road Bikes"
 categories: [Cycling]
-youtubeId: pmfsrpu-4do
+youtubeID: pmfsrpu-4do
 date: 2019-10-10
 ---
 ## The Rise of the Machines
@@ -109,7 +109,7 @@ And this is the star of the show, the Montpillier TTT stage in 2009 Tour de Fran
 
 [https://youtu.be/YkavqwWZRg0?t=1085]
 
-TT Bikes Require Extra Training 
+### TT Bikes Require Extra Training 
 
 Because TT bikes radically change your position on the bike, you have to spend hours and hours of training to adapt to this queer position. Before a Grand Tour, mucking around on a TT bike is a major pain in the neck as you’re trying to tweak your form and at the same time ride your TT bike to keep the bio-mechanics tuned in.
 
@@ -131,7 +131,7 @@ WorldTour teams hire between 24 and 30 riders. This is another 40 or so extra bi
 
 To take advantage of a TT bike, you need to spend time in a wind tunnel adding more expenses. Some teams do not have money for wind tunnels and this lack of funds penalizes them against teams with bigger sponsors and bigger budgets.
 
-Conclusion
+## Conclusion
 
 Because everyone races on a TT bike in a time trial, no one gets an edge on the rivals from the TT bikes themselves. 
 
