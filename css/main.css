@@ -1,3 +1,9 @@
+@font-face {
+   font-family: 'Iosevka';
+   font-style: normal;
+   font-weight: 400;
+   src: url('/fonts/woff2/iosevka-light.woff2') format('woff2'), url('/fonts/woff/iosevka-light.woff') format('woff'), url('/fonts/ttf/iosevka-light.ttf') format('truetype');
+ }
 body {
     margin: 60px auto;
     width: 70%;
@@ -21,14 +27,14 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family:'Sans-Serif';
+    font-family: sans-serif;
     text-align: center;
 }
 p {
     font-size: 1.2em;
     line-height: 1.3em;
     color: #666;
-    font-family: monospace;
+    font-family: 'Iosevka';
 }
 footer {
     border-top: 1px solid #d5d5d5;
