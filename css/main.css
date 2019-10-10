@@ -1,12 +1,13 @@
 @font-face {
-   font-family: 'Iosevka';
+   font-family: 'Iosevka Light';
    font-style: normal;
-   font-weight: 400;
+   font-weight: 300;
    src: url('/fonts/woff2/iosevka-light.woff2') format('woff2'), url('/fonts/woff/iosevka-light.woff') format('woff'), url('/fonts/ttf/iosevka-light.ttf') format('truetype');
  }
 body {
     margin: 60px auto;
     width: 70%;
+   font-family: 'Iosevka Light'
 }
 nav ul, footer ul {
     padding: 0px;
@@ -34,7 +35,6 @@ p {
     font-size: 1.2em;
     line-height: 1.3em;
     color: #666;
-    font-family: 'Iosevka';
 }
 footer {
     border-top: 1px solid #d5d5d5;
