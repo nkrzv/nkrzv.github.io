@@ -3,6 +3,7 @@ layout: post
 title: "A Case Against TT Road Bikes"
 categories: [Cycling]
 youtubeId: pmfsrpu-4do
+youtubeId2: dO2GO5x6xPU
 date: 2019-10-10
 ---
 ## The Rise of the Machines
@@ -95,9 +96,9 @@ Or look at Alejandro Valverde. Wet road, yes but this is an old pro. Wet or dry,
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-[https://youtu.be/pmfsrpu-4do]
-
 Here’s Michael Rasmussen on his way to win 2007 Tour de France (except he didn’t). He crashed twice and came close to another one or two as he kept going. Notice how sloppy he handles the bike before each crash.
+
+{% include youtubePlayer.html id=page.youtubeId2 %}
 
 [https://youtu.be/dO2GO5x6xPU]
 
