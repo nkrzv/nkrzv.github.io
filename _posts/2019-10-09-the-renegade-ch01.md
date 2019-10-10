@@ -93,7 +93,7 @@ Me, I need a sleep.
 
 “What?”
 
-“A song by Nazareth. You’re fooling yourself... dream on... dream on.”
+“A song by Nazareth. You’re fooling yourself, dream on, dream on.”
 
 He lights a cigarette and says, “What if we dig under the flat?”
 
@@ -141,11 +141,11 @@ I give him my cigarette to light his. He lights it, looks at the bureaucrat, say
 
 “Are you a doctor?”
 
-“I’m one of the Titan’s backers, I chair...”
+“I’m one of the Titan’s backers, I chair—”
 
 “What do you want?”
 
-“Kolya,” I say and pull Nikolai by the sleeve, “let’s go.”
+“Kolya,” I said and pulled Nikolai by the sleeve, “let’s go.”
 
 “Excuse me,” the bureaucrat says. “Do you realize,” he says to Nikolai, “you thwart the development of a state-sponsored athlete?”
 
