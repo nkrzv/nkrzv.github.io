@@ -93,7 +93,7 @@ Do you think he’d have gone down on a road bike? Do you think he’s that clum
 
 Or look at Alejandro Valverde. Wet road, yes but this is an old pro. Wet or dry, he knows what to do yet it looks like he doesn’t control his bike at all.
 
-{% include youtubePlayer.html id=pmfsrpu-4do %}
+{% include youtubePlayer.html id=page.youtubeId %}
 
 [https://youtu.be/pmfsrpu-4do]
 
