@@ -10,6 +10,12 @@
    font-weight: 300;
    src: url('/fonts/woff2/iosevka-lightitalic.woff2') format('woff2'), url('/fonts/woff/iosevka-lightitalic.woff') format('woff'), url('/fonts/ttf/iosevka-lightitalic.ttf') format('truetype');
  }
+@font-face {
+   font-family: 'Iosevka Bold';
+   font-style: bold;
+   font-weight: 700;
+   src: url('/fonts/woff2/iosevka-bold.woff2') format('woff2'), url('/fonts/woff/iosevka-bold.woff') format('woff'), url('/fonts/ttf/iosevka-bold.ttf') format('truetype');
+ }
 body {
     margin: 60px auto;
     width: 70%;
@@ -34,7 +40,8 @@ a:hover {
 }
 h1 {
     font-size: 2em;
-    font-family: sans-serif;
+    font-family: 'Iosevka Bold';
+    font-weight: 700;
     text-align: center;
 }
 p {
