@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chapter 2"
+title: "The Renegade: Chapter 2"
 categories: [Book]
 date: 2019-10-10
 ---
