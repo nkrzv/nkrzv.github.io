@@ -2,8 +2,10 @@
 layout: post
 title: "A Case Against TT Road Bikes"
 categories: [Cycling]
-youtubeId: pmfsrpu-4do
+youtubeId1: pmfsrpu-4do
 youtubeId2: dO2GO5x6xPU
+youtubeId3: sRSFUnclJGQ
+youtubeId4: YkavqwWZRg0?t=1085
 date: 2019-10-10
 ---
 ## The Rise of the Machines
@@ -94,21 +96,19 @@ Do you think he’d have gone down on a road bike? Do you think he’s that clum
 
 Or look at Alejandro Valverde. Wet road, yes but this is an old pro. Wet or dry, he knows what to do yet it looks like he doesn’t control his bike at all.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.youtubeId1 %}
 
 Here’s Michael Rasmussen on his way to win 2007 Tour de France (except he didn’t). He crashed twice and came close to another one or two as he kept going. Notice how sloppy he handles the bike before each crash.
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
-[https://youtu.be/dO2GO5x6xPU]
-
 This is a former UCI world mountain bike champion and these guys have superb bike handling skills. Look at this descend by him in 2005 Tour. Not a clumsy rider.
 
-[https://youtu.be/sRSFUnclJGQ]
+{% include youtubePlayer.html id=page.youtubeId3 %}
 
 And this is the star of the show, the Montpillier TTT stage in 2009 Tour de France. A bit of a circus.
 
-[https://youtu.be/YkavqwWZRg0?t=1085]
+{% include youtubePlayer.html id=page.youtubeId4 %}
 
 ### TT Bikes Require Extra Training 
 
