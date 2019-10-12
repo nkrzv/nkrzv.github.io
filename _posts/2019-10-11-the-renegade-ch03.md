@@ -1,3 +1,10 @@
+---
+layout: post
+title: "The Renegade: Chapter 3"
+categories: [Book]
+date: 2019-10-11
+---
+
 Not everyone stutters the same way. 
 
 Some people speak with a jackhammer in their mouth and misfire on a single letter. Bbbbboy. Me, I sound like a wounded animal with a vowel stuck in my throat.
