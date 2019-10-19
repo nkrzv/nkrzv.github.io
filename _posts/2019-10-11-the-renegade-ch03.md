@@ -177,7 +177,7 @@ At his grave with a table and two benches, we sat in silence and waited for Dad 
 
 Dad always cried after the toast.
 
-First time I asked why you cry he said he missed his brother. The story evolved to watching Kostya drown too far from the shore and Dad swimming too slow to save him.
+First time I asked why you cry he said he missed his brother. Over time, the story evolved to watching Kostya drown too far from the shore and Dad swimming too slow to save him.
 
 Sergey named his firstborn son Konstantin to honor Dad’s brother. He too watched him drown. Me, I was in a pram looking at the lake and this explains why I pictured my uncle’s death when Dad told me how he died as if I stood on the shore and watched a man go under water.
 
