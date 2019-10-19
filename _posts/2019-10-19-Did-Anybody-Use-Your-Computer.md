@@ -13,4 +13,4 @@ Don’t know if this is possible on Windows or iOS but on Linux you can see if s
 
 `lastb` [lists](https://www.guyrutenberg.com/2014/09/26/view-failed-login-attempts-lastb/) failed attempts to your system.
 
-`aureport` is a [tool](https://linux.die.net/man/8/aureport) to audit your logs in /var/log/ .
+`aureport` is a [tool](https://linux.die.net/man/8/aureport) to audit your logs in `/var/log/` .
