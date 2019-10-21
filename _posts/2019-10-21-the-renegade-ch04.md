@@ -1,4 +1,9 @@
-# Chapter 4
+---
+layout: post
+title: "The Renegade: Chapter 4"
+categories: [Book]
+date: 2019-10-20
+---
 
 Tell the man on the street God is dead. Tell him the utopia everyone believes in, the world to come, people who walk the earth today will see it in twenty years. We’re that close. One last push. Premier Khrushchev said in the 1960s, we’ll build communism by 1980. Make them believe.
 
