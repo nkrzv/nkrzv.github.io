@@ -159,7 +159,7 @@ Round up the priests, file them against a wall. Fire. Maxim machine gun is the t
 
 Turn churches into public toilets. Bulldoze the superstition nests too big for toilets. Cut down the crosses, strip the gold and convert a house of worship into a house of atheism.
 
-Don’t forget the scripture. Borrow. Borrow from Isaiah and tell the masses the Party’s mission on earth is to turn swords into plowshares. Borrow from Paul and tell them if anyone is not willing to work, let him not eat. Makes this a law and jail those who dare to resist.
+Don’t forget the scripture. Borrow. Borrow from Isaiah and tell the masses the Party’s mission on earth is to turn swords into plowshares. Borrow from Paul and tell them if anyone is not willing to work, let him not eat. Make this a law and jail those who dare to resist.
 
 Round them up, file against a wall. Fire.
 
