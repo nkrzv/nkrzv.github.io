@@ -155,13 +155,13 @@ Her eyes turned red after weeks of crying and I saw her one night sitting alone 
 
 No one believed in God here. The Party said intelligent people don’t believe in God. Religion is the opiate of the masses. When in a corner, you don’t plead with God. You stay calm and take it on the chin. You deserve it. You do it wrong.
 
-Round up the priests, file them against the wall. Fire. Maxim machine gun is the tool of choice but rifles work too. Shoot with a hand gun to shock the spectators. Gun down every priest you find and tell the masses God is dead. Send Gagarin to space and ask him if he saw God. No, he didn’t.
+Round up the priests, file them against a wall. Fire. Maxim machine gun is the tool of choice but rifles work too. Shoot with a hand gun to shock the spectators. Gun down every priest you find and tell the masses God is dead. Send Gagarin to space and ask him if he saw God. No, he didn’t.
 
 Turn churches into public toilets. Bulldoze the superstition nests too big for toilets. Cut down the crosses, strip the gold and convert a house of worship into a house of atheism.
 
 Don’t forget the scripture. Borrow. Borrow from Isaiah and tell the masses the Party’s mission on earth is to turn swords into plowshares. Borrow from Paul and tell them if anyone is not willing to work, let him not eat. Makes this a law and jail those who dare to resist.
 
-Round them up, file against the wall. Fire.
+Round them up, file against a wall. Fire.
 
 Give the masses new rituals. Make them marry in state cathedrals. Fill them with gold and red carpets. Play an organ. Make them vow an oath and say, before the law of our Soviet motherland, before our parents and friends, we declare our will to live together as husband and wife, family cornerstone and fount of progeny in the name of the state’s prosperity, immortality of the Soviet people and personal felicity.
 
