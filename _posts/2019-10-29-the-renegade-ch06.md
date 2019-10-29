@@ -71,7 +71,7 @@ I told him I would love to and he said I’d have to travel to Ivano-Frankovsk i
 
 “If you make the team,” he said, “and do well in the race, I’ll keep you at least until the end of next season. Make the team and we’ll see what kind of a rider we can make from you.”
 
-He stood up and said that he’ll talk to Piotr Trumheller tomorrow after the road race. He stuck out his hand for me to shake it and walked out.
+He stood up and said that he’ll talk to Piotr Trumheller tomorrow after the road race. He stuck out his hand for me to shake it and after I shook it, he walked out.
 
 I sat and poured some tea into a glass and added a teaspoon of mom’s blackberry jam I brought from home. “Made it,” I said out loud.
 
