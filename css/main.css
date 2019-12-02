@@ -12,7 +12,8 @@
  }
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 740px;
+    max-width: 95%;
    font-family: 'Iosevka Light'
 }
 nav ul, footer ul {
