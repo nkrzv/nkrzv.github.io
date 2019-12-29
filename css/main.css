@@ -16,13 +16,7 @@ body {
     max-width: 95%;
    font-family: 'Iosevka Light'
 }
-nav ul {
-    padding: 0px;
-    list-style: none;
-    font-weight: 300;
-    text-align: right;
-}
-footer ul {
+nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: 300;
