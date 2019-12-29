@@ -11,6 +11,30 @@
 		<meta property="og:image" content="https://nikolai.com.au/images/Nikolai-Razouvaev.png">-->
 		<meta property="og:description" content="Nikolai Razouvaev: Writer, marketing problem solver. Apolitical anarchist.">
 		<meta name="yandex-verification" content="76b7236a5ac3deaa" />
+		<style type="text/css">
+			[style*="--aspect-ratio"] > :first-child {
+  width: 100%;
+}
+[style*="--aspect-ratio"] > img {  
+  height: auto;
+} 
+@supports (--custom:property) {
+  [style*="--aspect-ratio"] {
+    position: relative;
+  }
+  [style*="--aspect-ratio"]::before {
+    content: "";
+    display: block;
+    padding-bottom: calc(100% / (var(--aspect-ratio)));
+  }  
+  [style*="--aspect-ratio"] > :first-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+  }  
+}
+		</style>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-97978061-1"></script>
 <script>
@@ -33,7 +57,14 @@
 			{{ content }}
 		</div>
 		<footer>
-    		<iframe width="700" height="120" src="https://nikolai.substack.com/embed" frameborder="0" scrolling="no"></iframe>
-		</footer>
+    		<div style="--aspect-ratio: 16/9;">
+  <iframe 
+    src="https://nikolai.substack.com/embed"
+    width="1600"
+    height="900"
+    frameborder="0"
+  >
+  </iframe>
+</div>
 	</body>
 </html>
