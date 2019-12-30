@@ -4,8 +4,6 @@ title: "Unwritten Rules of Cycling"
 categories: [Cycling]
 date: 2019-12-30
 ---
-# Unwritten Rules of Cycling
-
 In Soviet Union, unwritten rules of the peloton was law.
 
 As the unwritten rules go, they were not codified. You wouldn’t go to a library, pick up a Codex Cyclicus volume and find out what’s legal and what’s not. You learned the rules over thousands of kilometers listening to your older teammates brag about a stage race they did last year. 
