@@ -16,7 +16,7 @@ And bikes.
 
 Picture a 14-year-old cyclist who heard about 6-speed freewheels but never saw one. Picture me watching on color TV how our team in red skinsuits and white aero helmets smashed the Germans in gray skinsuits and white aero helmets in a 100 km team time trial on bikes that looked strange to me. 
 
-I couldn’t figure out what was wrong them until the commentator said something about aerodynamics and then I saw it – the red Colnago bikes had a small front wheel. Didn’t make any sense to me but I assumed the guys who rode them knew their business.
+I couldn’t figure out what was wrong with them until the commentator said something about aerodynamics and then I saw it – the red Colnago bikes had a small front wheel. Didn’t make any sense to me but I assumed the guys who rode them knew their business.
 
 After that I watched Sergei Sukhoruchenkov blow the road race apart with a long range solo attack. A play like this one, you remember it for the rest of your life.
 
