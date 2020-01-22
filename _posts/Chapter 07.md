@@ -32,7 +32,7 @@ Before Titan, I never thought of myself as a team time trial specialist. I liked
 
 In Titan, it didn’t matter what I liked. Getting out of the Soviet Union was the goal now and team time trial would be the ticket.
 
-<!--Something about why ttt was a ticket? -->
+<!-- why ttt mattered -->
 
 When Elizarov said we’re aiming for two hours four in my first hundred-k team time trial, I thought he was mad. This time would place us on the level with the best in the country. He wanted me to go from a nobody to a team time trial ace in three months. 
 
