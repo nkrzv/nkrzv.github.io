@@ -2,19 +2,19 @@
 
 By the end of the season, I settled into the team and roomed with a guy who loved AC/DC as much as I did.
 
-Titan’s boss, Yuri Elizarov, was a tall, stout man with bulky face features and bushy eyebrows. You wouldn’t want to punk the guy. I burned myself more than once trying to play him as our jagged relationship grew. Testing his patience never worked for anybody because he had little of it. Late for a ride or breakfast, he’d fire you if he was in a bad mood. No offense was too small. Do what we tell you or butt out. 
+Titan’s boss, Yuri Elizarov, was a tall, stout man with a bulky face features and bushy eyebrows. You wouldn’t want to punk the guy. I burned myself more than once trying to play him as our jagged relationship grew. Testing his patience never worked because he had little of it. Late for a ride or breakfast, he’d fire you if he woke up in a bad mood that day. No offense was too small. Do what I tell you or butt out. 
 
 Yuri Elizarov had no room for second chances.
 
-A former mountain climber, he pioneered systematic high altitude training in Soviet cycling. He believed the sum of small-scale advantages in minute details is key to race results. 
+A former mountain climber, he pioneered high altitude training for Soviet cyclists. He believed the sum of small-scale advantages in minute details is key to race results. 
 
 He ruled Titan with an iron fist in a dictatorial style and had no fear of authority. With no friends in cycling, he set out to rile up the establishment with his training methods.
 
-Titan won five rainbow jerseys and an Olympic gold medal in ten years before it folded in 1992. Elizarov’s project reached its peak with Viktor Rzhaksynskyi’s gold medal in 1991 world road race. He won the last amateur rainbow jersey and it went to Titan.
+Titan won five rainbow jerseys and an Olympic gold medal in ten years before it folded in 1992. Elizarov’s project reached its peak with Viktor Rzhaksynskyi’s gold medal in 1991 world road race. He won the last amateur rainbow jersey and, symbolically, it went to Titan.
 
 For some, Yuri Elizarov was an eccentric dreamer, others thought he was mad. When he told me I will be ready for my first 100-kilometer team time trial by the end of the season, I thought he was mad.
 
-The classic four-men team time trial was road cycling’s golden standard. It’s a complex, technical race. To do well in it, you need all four riders perform without a glitch on the same day. It’s what makes it different from other races. 
+The classic four-men team time trial was the road cycling’s golden standard. At least in the USSR. It’s a complex, technical race. To do well in it, you need all four riders perform without a glitch on the same day. It’s what makes it different from other races. 
 
 Some people liken a team time trial to an individual one but the only thing the two have in common is that you race against the clock. The dynamics and the type of riders suited for these races are not the same.
 
@@ -32,17 +32,25 @@ Before Titan, I never thought of myself as a team time trial specialist. I liked
 
 In Titan, it didn’t matter what I liked. Getting out of the Soviet Union was the goal now and team time trial would be the ticket.
 
-<!-- why ttt mattered -->
+It’s a simple strategy. On paper, you might have a good chance of winning a road race in a world championship. On the road, it’s a different story. Miss the winning break and it’s game over. Puncture at the wrong time and say goodbye to your race. Even if all goes well and you’re in the run with 500 meters to go, one mistake, a wrong wheel or a foul play by a jerk in front of you will ruin everything.
 
-When Elizarov said we’re aiming for two hours four in my first hundred-k team time trial, I thought he was mad. This time would place us on the level with the best in the country. He wanted me to go from a nobody to a team time trial ace in three months. 
+When you roll to the TTT start line in red skinsuits, you’ve come to win the bloody thing. In your head, you know that if everything goes to plan and no one cracks too early, you’re going to nail the race. No problem. And if shit happens, you hit the podium anyway. Not a bad outcome for a stuffed up race.
 
-Thousands of kilometers later and a lot of racing we clocked two hours four at the end of the season as he said we would. Not a madman. A pro who knew what he was doing.
+The coaches make you believe this. They know what they’re doing they say. It worked before and it will work again. It always does and always will.
 
-I don’t think there was another seventeen-year-old in the country who did anything close to this kind of time. Under the UCI rules, I wasn’t even allowed to race that. As with a lot of other things in the USSR, we ran our own show behind the wall.
+Do what we tell you.
+
+I placed my bet on a team time trial to get into the national team as a TTT specialist. If it worked, I could defect in the first Western country they send me.
+
+When Elizarov said we’re aiming for two hours four in my first hundred-k team time trial, I thought he was mad. The time would place us on the level with the best in the country. He wanted me to go from a nobody to a team time trial ace in three months. 
+
+Thousands of kilometers later and a lot of racing we clocked two hours four at the end of the season as he said we would. Not a madman. A pro who knew how to hit the target he set out to hit.
+
+I don’t think there was another seventeen-year-old in the country who did anything close to this kind of time. Under the UCI rules, I wasn’t even allowed to race a hundred-k TTT. As with a lot of other things in the USSR, we ran our own show behind the wall.
 
 That autumn in 1983 Titan started the season in Gagra, a cute resort town on the Black Sea coast. The training camp kicked off with a team meeting in a room dwarfed by Elizarov’s towering silhouette. He sat on a wooden chair in front of a large window at the end of the room. 
 
-“You’re here to learn your individual goals for the next season,” he said. “You’re not here for fun and to waste time fooling around. We’re here to breed world and Olympic champions. We’ll assess and reassess your progress as we go along during the season. If you don’t perform and don’t show commitment, we’ll kick you out.”
+“You’re here to learn your individual goals for the next season,” he said. “You’re not here for fun and waste time fooling around. We’re here to breed world and Olympic champions. We’ll assess and reassess your progress as we go. If you don’t perform and show commitment, we’ll kick you out.”
 
 He gave us time to digest his words and opened a thick, leather-bound notebook. For the next two hours, he talked about each rider’s targets for the upcoming season.
 
@@ -58,7 +66,9 @@ Next three months is the selection period. They’ll scrutinize every race, ever
 
 He spoke as a man who thought through every step and I had no reason not to believe him. No detail escaped his mind. The confidence in his speech blew away all doubt out of my mind.
 
-I won the first time trial stage in Samarkand and we followed it with a team time trial win. A day after I topped it up with another first place in a road race. If one stage was enough to qualify, how about three in a row? The national head coach came to our team car after the third stage to shake my hand and welcome me to the national team. I was in.
+I won the first time trial stage in Samarkand and we followed it with a team time trial win. Next day I topped it up with another first place in a road race. If one stage was enough to qualify, how about three in a row? The national head coach came to our team car after the third stage to shake my hand and welcome me to the national team. 
+
+I was in.
 
 Qualifying meant going to races in Western Europe and, if I had the nerve to bail out, never going back to the USSR.
 
@@ -80,29 +90,29 @@ We stopped talking for a moment and had another round of vodka.
 
 “Are you coming back?” he said and poured us another shot.
 
-“Don’t know. I want the rainbow jersey. Then I’m gone. What if I don’t qualify for the worlds? Then what? Should I defect in Germany?”
+“Don’t know. I want the rainbow jersey. Then I’m gone. What if I don’t qualify for the world’s? Then what? Should I defect in Germany?”
 
 He left the room for a minute and came back with a pile of tubulars bound in industrial wrapping paper.
 
 “One hundred,” he said, nodding at the pile with his head. “A stash I prepared for you when I heard you made the national team. Take it to Germany, make some money before you go to France, and then run. You need that gold medal.”
 
-Ruble a worthless paper outside the USSR, Soviet tubulars was the currency we traded in. The math behind this socialism-induced business was simple. The street price of our tubulars in the Soviet Union was four rubles. The US dollar fetched about the same on the black market. One tubular, one US dollar. You spend two hundred rubles on fifty tubulars and sell them to Italians or Germans for ten bucks each. Same quality stuff in Western Europe costs twice as much.
+Ruble a worthless paper outside the USSR, Soviet tubulars were the currency we traded in. The math behind this socialism-induced business was simple. The street price of our tubulars in the Soviet Union was four rubles. The US dollar fetched about the same on the black market. One tubular, one US dollar. You spend two hundred rubles on fifty tubulars and sell them to Italians or Germans for ten bucks each. Same quality stuff in Western Europe costs twice as much.
 
 Once you’ve got your foreign cash, you bring it home and sell it on the black market for under four rubles per dollar. The five hundred bucks you brought back from a race is close to two thousand rubles now. My parents made four hundred rubles a month together. I could make two grand from a single race in Europe if I brought fifty tubulars across the border and sold them.
 
-Flying out of the country didn’t worry me as much as coming back did. Losing two hundred rubles’ worth of tubulars if customs confiscated them was business. Bringing the dollars in a was not. Owning, buying, selling, or smuggling foreign currency in or out of the USSR was a criminal offense with a jail term longer than I cared to know. What you do, you learn from a been there teammate about the seat tube.
+Flying out of the country didn’t worry me as much as coming back did. Losing two hundred rubles’ worth of tubulars if customs confiscated them was business. Bringing the dollars in was not. Owning, buying, selling, or smuggling foreign currency in or out of the USSR was a criminal offense with a jail term longer than I cared to know. What you do, you learn from a been-there teammate about the seat tube.
 
 I learned about the seat tube’s smuggling properties when I wondered aloud what’s the safest way to get a wad of cash through customs.
 
 “Roll it, rubber-band it, and drop it into a seat tube. They never check the bikes. Luggage, yes. They’ll search you if you look worried. Bikes — never.”
 
-I qualified for the world championship and we flew to France. The Los Angeles Games the Soviet Union and the Eastern Bloc boycotted had ended days before. Our championship was the first event after the Games where Soviet and American athletes met. The country’s leadership, the national team’s boss told us, doesn’t want to see Americans win. Not even one race.
+I qualified for the world championship and we flew to France. The Los Angeles Games the Soviet Union and the Eastern Bloc boycotted had ended days before. Our championship was the first event after the Games where Soviet and American athletes met. The country’s leadership, the national team’s boss told us, doesn’t want to see Americans win. At least not a team time trial.
 
 The organizers put us in the same hotel with the Yanks. We come from a training ride one morning and see them in stars and stripes track suits unpacking bikes from a bus.
 
-The time trial equipment they pull out of their bike bags looks like aliens built it. Frames with aero-shaped tubes. Small front wheels with tall rims and rear disc wheels. Aero helmets the size of a bomb. What was even more strange is our coach chatting to the American one. We pass them by on our bikes and they speak Russian.
+The time trial equipment they pull out of their bike bags looked like aliens built it. Frames with aero-shaped tubes. Small front wheels with tall rims and rear disc wheels. Aero helmets the size of a bomb. What was even more strange is our coach chatting to the American one. We pass them by on our bikes and they speak Russian.
 
-“Eddie Borysewicz, an old friend,” our coach says at the lunch table. “Defected to the United States from Poland years ago. Used to coach the Polish national junior team, works with the Americans now. Says his boys are on fire and you’ll be lucky if they won’t catch you. They’re last to start, remember? You go two minutes before them.”
+“Eddie Borysewicz, an old friend,” our coach said at the lunch table. “Defected to the United States from Poland years ago. Used to coach the Polish national junior team, works with the Americans now. Says his boys are on fire and you’ll be lucky if they won’t catch you. They’re last to start, remember? You go two minutes before them.”
 
 We chuckled at the idea of another team catching us. Dreamers.
 
@@ -130,7 +140,7 @@ Nah, they won’t. Will this be on the news? Here in France, for sure.
 
 What about back home, will they even mention it in the newspapers?
 
-My dad, he was silent on the phone when I told him I was going to France to race the worlds. He was silent because he cried. Yuri Elizarov, this guy, I’d want to look into his eyes, shake his hand and thank him. My mom, she said I’ll quit cycling in two weeks when I got into it and now I wanted to show her my medal.
+My dad, he was silent on the phone when I told him I was going to France to race the world’s. He was silent because he cried. Yuri Elizarov, this guy, I’d want to look into his eyes, shake his hand and thank him. My mom, she said I’ll quit cycling in two weeks when I got into it and now I wanted to show her my medal.
 
 “See? I didn’t quit.”
 
