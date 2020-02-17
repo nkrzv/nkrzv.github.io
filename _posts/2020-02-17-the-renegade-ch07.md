@@ -1,4 +1,9 @@
-# Chapter 7
+---
+layout: post
+title: "The Renegade: Chapter 7"
+categories: [Book]
+date: 2020-02-17
+---
 
 By the end of the season, I settled into the team and roomed with a guy who loved AC/DC as much as I did.
 
