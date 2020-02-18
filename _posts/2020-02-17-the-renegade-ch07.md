@@ -95,7 +95,7 @@ We stopped talking for a moment and had another round of vodka.
 
 “Are you coming back?” he said and poured us another shot.
 
-“Don’t know. I want the rainbow jersey. Then I’m gone. What if I don’t qualify for the world’s? Then what? Should I defect in Germany?”
+“Don’t know. I want the rainbow jersey. Then I’m gone. What if I don’t qualify for the worlds? Then what? Should I defect in Germany?”
 
 He left the room for a minute and came back with a pile of tubulars bound in industrial wrapping paper.
 
@@ -145,7 +145,7 @@ Nah, they won’t. Will this be on the news? Here in France, for sure.
 
 What about back home, will they even mention it in the newspapers?
 
-My dad, he was silent on the phone when I told him I was going to France to race the world’s. He was silent because he cried. Yuri Elizarov, this guy, I’d want to look into his eyes, shake his hand and thank him. My mom, she said I’ll quit cycling in two weeks when I got into it and now I wanted to show her my medal.
+My dad, he was silent on the phone when I told him I was going to France to race the worlds. He was silent because he cried. Yuri Elizarov, this guy, I’d want to look into his eyes, shake his hand and thank him. My mom, she said I’ll quit cycling in two weeks when I got into it and now I wanted to show her my medal.
 
 “See? I didn’t quit.”
 
