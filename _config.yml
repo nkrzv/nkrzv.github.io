@@ -1,4 +1,2 @@
 name: Nikolai Razouvaev
 markdown: kramdown
-plugins:
-  - jekyll-redirect-from

@@ -4,7 +4,6 @@ title: "The Renegade: Chapter 7"
 categories: [Book]
 date: 2020-02-17
 ---
-
 By the end of the season, I settled into the team and roomed with a guy who loved AC/DC as much as I did.
 
 Titan’s boss, Yuri Elizarov, was a tall, stout man with a bulky face features and bushy eyebrows. You wouldn’t want to punk the guy. I burned myself more than once trying to play him as our jagged relationship grew. Testing his patience never worked because he had little of it. Late for a ride or breakfast, he’d fire you if he woke up in a bad mood that day. No offense was too small. Do what I tell you or butt out. 

@@ -4,7 +4,6 @@ title: "The Renegade: Chapter 9"
 categories: [Book]
 date: 2020-02-19
 ---
-
 We drove toward Kreshchatyk, down the Vladimirsky Descent, past the Pochtovaya Square, and came to Podol’s narrow streets.
 
 Outside, pedestrians in winter jackets and coats scurried on the sidewalks. They don’t teach you in school what to do when the KGB sends an officer with an uber-Ukrainian name Bogdan, in a black Volga for goodness’ sake, to pick you up. Don’t ask where you’re going, stay calm. Patience and respect, show them that.

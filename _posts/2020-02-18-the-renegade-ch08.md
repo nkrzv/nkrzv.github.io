@@ -4,7 +4,6 @@ title: "The Renegade: Chapter 8"
 categories: [Book]
 date: 2020-02-18
 ---
-
 Anton was on a commuter train to Moscow when we touched down in Sheremetyevo airport from Paris. The cloned housing estates rushed in the opposite direction outside the train window. He turned his head away from the moving buildings and gazed inside the packed car.
 
 Most people were reading. The *intelligentsiya* — books and literary journals. The *gapota*, the plebes — newspapers and illustrated magazines. What the hell could you be reading on these pages cooked up by the spin doctors of the propaganda machine? It’s mind-numbing to even look at the headlines. New Era in the History of Humanity. Great Heroism of a Great People. Mighty Wings of Our Motherland. Everlasting Principles of Marxism-Leninism. Who writes this? They must be insane, those writers. How can they write this and not go mad?
