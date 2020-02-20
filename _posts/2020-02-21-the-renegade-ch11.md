@@ -16,7 +16,7 @@ Viktor Kapitonov had already picked the team in Sochi but kept his options open.
 
 Except for the selected riders, everyone from the national team had to race for their home teams. For me, it was Titan. One of our guys, Sergei Gavrilko, a perpetual Peace Race hopeful, had a shot at making the last minute cut.
 
-One of the best stage racers in the country, he tanked year after year to make the Peace Race team. He liked racing his own race and paid no mind to team orders. His solo breakaways and never-die attitude earned him respect but respect alone couldn’t buy him a ticket to a Peace Race. He’d give everyone the slip and snub the blame if anyone complained about his tomfooleries. His racing game made it hard for Kapitonov to trust a wallflower like him to win the Peace Race. A good rider with close to zero chance to ever make the cut.
+One of the best stage racers in the country, he tanked year after year to make the Peace Race team. He liked racing his own race and paid no mind to team orders. His solo breakaways and never-die attitude earned him respect but respect alone couldn’t buy him a ticket to a Peace Race. He’d give everyone the slip and snub the blame if anyone complained about his tomfooleries. His racing game made it hard for Kapitonov to trust a wallflower like him to win the queen of all stage races. A good rider with close to zero chance to ever make the cut.
 
 Not that he was an egoist or greedy. Sometimes the will to do his own thing was stronger than someone else’s race plan. No one knew when he’d have one of these days.
 
