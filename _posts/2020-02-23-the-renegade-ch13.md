@@ -4,7 +4,7 @@ title: "The Renegade: Chapter 13"
 categories: [Book]
 date: 2020-02-23
 ---
-My plane landed in Kiev late afternoon the next day. No one heard from me for six days. If I’d gone missing for a day between training camps and races, I could get away with it. Six days, not a chance. Not when another a training camp was under way at Prolisok resort near Kiev. They’d fired others for smaller offenses.
+My plane landed in Kiev late afternoon the next day. No one heard from me for six days. If I’d gone missing for a day between training camps and races, I could get away with it. Six days, not a chance. Not when another training camp was under way at Prolisok resort near Kiev. They’d fired others for smaller offenses.
 
 This camp was set up to sharpen Titan’s riders for its second most important team time trial in the season. They started the project to develop world-class team time trial specialists. The nationals was the season’s pinnacle. What was coming now was the race where all Olympic development centers like Titan raced against one another. It was the national team time trial without the title.
 
